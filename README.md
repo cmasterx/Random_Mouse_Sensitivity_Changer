@@ -1,1 +1,1 @@
-# Random_Mouse_Sensitivity_Changer
+# Random Mouse Sensitivity Changer
