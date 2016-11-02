@@ -7,7 +7,7 @@
 
 #include "MouseChanger.h"
 
-#define RELEASE false
+#define RELEASE true
 #define _main main()
 
 #if RELEASE
@@ -19,9 +19,9 @@ int       cmdShow) \
 
 #endif
 
-#define TIME_SLEEP	   0
+#define TIME_SLEEP	   180000
 #define TIME_INTERVAL  3000
-#define NO_LIMIT	   false
+#define NO_LIMIT	   true
 #define CHANGE_COUNT   3
 #define REVERT_SPEED   true
 
