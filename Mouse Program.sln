@@ -5,10 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mouse Program", "Mouse Program\Mouse Program.vcxproj", "{447132A3-2ECD-4367-920E-0CC18AB7B7F9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tic Tac Toe", "..\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe.vcxproj", "{2404E671-0964-4928-87A0-929E1EA810F6}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 3.2", "..\Chapter 3.2\Chapter 3.2\Chapter 3.2.vcxproj", "{6A0B74CE-C6FC-42BD-9134-526795A82214}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,30 +27,6 @@ Global
 		{447132A3-2ECD-4367-920E-0CC18AB7B7F9}.Test|x64.Build.0 = Test|x64
 		{447132A3-2ECD-4367-920E-0CC18AB7B7F9}.Test|x86.ActiveCfg = Test|Win32
 		{447132A3-2ECD-4367-920E-0CC18AB7B7F9}.Test|x86.Build.0 = Test|Win32
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Debug|x64.ActiveCfg = Debug|x64
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Debug|x64.Build.0 = Debug|x64
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Debug|x86.ActiveCfg = Debug|Win32
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Debug|x86.Build.0 = Debug|Win32
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Release|x64.ActiveCfg = Release|x64
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Release|x64.Build.0 = Release|x64
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Release|x86.ActiveCfg = Release|Win32
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Release|x86.Build.0 = Release|Win32
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Test|x64.ActiveCfg = Test|x64
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Test|x64.Build.0 = Test|x64
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Test|x86.ActiveCfg = Test|Win32
-		{2404E671-0964-4928-87A0-929E1EA810F6}.Test|x86.Build.0 = Test|Win32
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Debug|x64.ActiveCfg = Debug|x64
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Debug|x64.Build.0 = Debug|x64
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Debug|x86.ActiveCfg = Debug|Win32
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Debug|x86.Build.0 = Debug|Win32
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Release|x64.ActiveCfg = Release|x64
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Release|x64.Build.0 = Release|x64
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Release|x86.ActiveCfg = Release|Win32
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Release|x86.Build.0 = Release|Win32
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Test|x64.ActiveCfg = Test|x64
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Test|x64.Build.0 = Test|x64
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Test|x86.ActiveCfg = Test|Win32
-		{6A0B74CE-C6FC-42BD-9134-526795A82214}.Test|x86.Build.0 = Test|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
