@@ -19,6 +19,7 @@ int       cmdShow) \
 
 #endif
 
+// TODO change define to var
 #define TIME_SLEEP	   60000
 #define TIME_INTERVAL  3000
 #define NO_LIMIT	   true
